@@ -1,5 +1,3 @@
-const a = 10;
-
-console.log();
-
-console.log("안녕 자바스크립트!");
+//alert('안돼!');
+//confirm('정말 지울거야?');
+console.log(prompt('너 이름이 뭐니?'));
